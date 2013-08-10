@@ -1,4 +1,4 @@
-# 3.4 - Dada una lista de enteros, escribir una funcion que retorna una nueva lista, con los
+# Dada una lista de enteros, escribir una funcion que retorna una nueva lista, con los
 # elementos de la primera lista ordenados de menor a mayor. La funcion solo podra recorrer la
 # lista una sola vez.
 
