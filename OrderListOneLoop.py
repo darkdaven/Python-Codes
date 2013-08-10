@@ -4,11 +4,11 @@
 
 def OrderList(intList):
     ilist = intList
-	newList = []
+    newList = []
     topIndex = len(ilist) - 1
-	removeIndex = 0
-	nowIndex = 0
-	nowValue = ilist[0]
+    removeIndex = 0
+    nowIndex = 0
+    nowValue = ilist[0]
 	
 	while True:
 	    if nowValue > ilist[nowIndex]:
