@@ -3,7 +3,7 @@
 #Ejemplo: abracadabra.
 
 def Histogram(word):
-  histogramDict = {}
+  	histogramDict = {}
 	for letter in word:
 		if not histogramDict.has_key(letter):
 			histogramDict[letter] = 1
