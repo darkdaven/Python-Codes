@@ -46,3 +46,20 @@ def Histogram(word):
 
 
 Histogram('abracadabralacabramasviejadelahabana')
+
+#Example:
+# *
+# *
+# *
+# *
+# *
+# *
+# *
+# *
+# *
+# *
+# *  *
+# *  *  *
+# *  *  *
+# *  *  *
+# a  b  r
